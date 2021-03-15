@@ -29,7 +29,7 @@
 </p>
 <hr \>
 <p align="center">
-   <i>Would like to progress? Learn daily!</i>
+   <i>Would you like to progress? Learn daily!</i>
 </p>    
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dansalahi) -->
