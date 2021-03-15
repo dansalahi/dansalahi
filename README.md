@@ -1,6 +1,6 @@
 ## Hey there! I'm Dan. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### As a software developer with excellent ability in the software development life cycle, with significant experience in product requirements and business around of product, Partner with other developers, analysts, QA, and support engineers throughout the product life cycle high-quality, user-friendly, scalable. 
+> As a software developer with excellent ability in the software development life cycle, with significant experience in product requirements and business around of product, Partner with other developers, analysts, QA, and support engineers throughout the product life cycle high-quality, user-friendly, scalable. 
 
 
 ## 🛠 &nbsp;Tech Stack
