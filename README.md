@@ -1,14 +1,11 @@
-## Hey there! I'm Dan. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey there! I'm Dan.
 
-> As a front-end engineer with an excellent software development life cycle, with significant experience in product requirements and product business analytics, Partner with other developers, analysts, QA, and support engineers throughout the product life cycle, high-quality, user-friendly, and scalable. 
+> As a full-stack developer with an excellent software development life cycle, with significant experience in product requirements and product business analytics, I Partner with other developers, analysts, QA, and support engineers throughout the product life cycle, high-quality, user-friendly, and scalable.
 
 
 ## 🛠 &nbsp;Tech Stack
 
-- 💻 &nbsp; Javascript | Typescript | PHP/Laravel
-- 🌐 &nbsp; NodeJS | ReactJS | Redux | Material UI | Bootstrap
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Figma | Adobe XD | Photoshop
+- 💻 &nbsp; JavaScript, TypeScript, Node, React, Next, Redux, Jest, Puppeteer, Docker, PHP, Laravel MySQL, and more!
 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
 <!-- <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"> -->
