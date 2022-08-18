@@ -5,10 +5,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-- 💻 &nbsp; JavaScript, TypeScript, Node, React, React Native, Next, Redux, Jest, Puppeteer, Docker, PHP, Laravel MySQL, and more!
+- 💻 &nbsp; JavaScript, TypeScript, Node, React, React Native, Next, Redux, Jest, Docker, PHP, Laravel MySQL
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-<!-- <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"> -->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) ![React Native](https://img.shields.io/badge/react_native-61DBFB.svg?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 <br/>
 
 <a href="https://github.com/AVS1508">
