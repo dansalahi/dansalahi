@@ -1,4 +1,4 @@
-## Hey there! I'm Dan.
+## Hey there! I'm Daniel.
 
 > As a full-stack developer with an excellent software development life cycle, with significant experience in product requirements and product business analytics, I Partner with other developers, analysts, QA, and support engineers throughout the product life cycle, high-quality, user-friendly, and scalable.
 
