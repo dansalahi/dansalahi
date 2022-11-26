@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-> As a creative full-stack developer with an excellent software development life cycle, with significant experience in product requirements and product business analytics, I Partner with other developers, analysts, QA, and support engineers throughout the product life cycle, high-quality, user-friendly, and scalable.
+> As a creative Software Engineer with an excellent software development life cycle, with significant experience in product requirements and product business analytics, I Partner with other developers, analysts, QA, and support engineers throughout the product life cycle, high-quality, user-friendly, and scalable.
 
 
 ## 🛠 &nbsp;Tech Stack
