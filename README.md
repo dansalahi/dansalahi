@@ -15,10 +15,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dansalahi&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dansalahi&theme=light&hide_border=false)<br/>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dansalahi)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dansalahi&theme=light&hide_border=false)
+<br/>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=dansalahi)](https://github.com/ryo-ma/github-profile-trophy)
