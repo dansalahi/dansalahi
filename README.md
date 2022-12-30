@@ -1,7 +1,6 @@
 ## Hey there! I'm Daniel.
 
->
-
+> I have consistently demonstrated the ability to design and develop high-quality software solutions with over 6 years of experience in the industry. I have extensive experience with front-end and back-end development.
 
 
 <br/>
