@@ -19,8 +19,7 @@
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dansalahi&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dansalahi&theme=light&hide_border=false) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dansalahi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dansalahi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
