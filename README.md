@@ -5,14 +5,9 @@
 
 <br/>
 
-## 📊 GitHub Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dansalahi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+## 📊 GitHub Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dansalahi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=dansalahi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr \>
 
