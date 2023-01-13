@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-> I have consistently demonstrated the ability to design and develop high-quality software solutions with over 6 years of experience in the industry. I have extensive experience with front-end and back-end development.
+> I am a highly experienced Software Engineer with a proven track record of success in the software development life cycle. I have a strong background in product requirements and business analytics, and have a proven ability to partner with other developers, analysts, QA, and support engineers to deliver high-quality, user-friendly, and scalable products.
 
 
 <br/>
