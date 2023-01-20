@@ -20,7 +20,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dansalahi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-<hr \>
+<!-- <hr \>
 
 ### 🤝🏻 Connect with Me
 <p align="center">
@@ -32,5 +32,5 @@
 <p align="center">
    <i>Would you like to progress? Learn daily!</i>
 </p>    
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dansalahi) -->
+ -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dansalahi)
