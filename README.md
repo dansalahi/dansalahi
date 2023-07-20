@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-> I am an experienced Software Engineer with a proven track record of success in the software development life cycle. I have a strong background in product requirements and business analytics, and have a proven ability to partner with other developers, analysts, QA, and support engineers to deliver high-quality, user-friendly, and scalable products.
+> As an experienced Software Engineer, I have specialized in developing large-scale e-commerce web and mobile applications. I am proficient in TypeScript, JavaScript, React, Next, GraphQL, Nest, Three, WebGL, and Microfrontend. Throughout my career as a top-rated freelance talent, I have successfully worked on diverse projects in finance, healthcare, cryptocurrency, video conferencing, game design, and IoT.
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dansalahi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dan.salahi) 
