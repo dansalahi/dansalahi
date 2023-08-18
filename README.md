@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-> As an experienced Software Engineer, I have specialized in developing large-scale e-commerce web and mobile applications. I am proficient in TypeScript, JavaScript, React, Next, GraphQL, Nest, Three, WebGL, and Microfrontend. Throughout my career as a top-rated freelance talent, I have successfully worked on diverse projects in finance, healthcare, cryptocurrency, video conferencing, game design, and IoT.
+> With a wealth of experience as a seasoned Software Engineer, my specialization lies in the development of expansive e-commerce web and mobile applications. My proficiency spans TypeScript, JavaScript, React, Next, GraphQL, Nest, and Microfrontend technologies. Over the course of my career, I have established myself as a top-rated freelance talent, consistently delivering exceptional results across a range of industries including finance, healthcare, cryptocurrency, video conferencing, game design, and IoT. Notably, I've had the privilege of collaborating with prominent market-leading companies, further enriching my expertise and insights.
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dansalahi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dan.salahi) 
