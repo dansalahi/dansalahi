@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-> With a wealth of 7 years of experience as a Senior Software Engineer, I specialize in the development of expansive e-commerce web and mobile applications. My proficiency spans TypeScript and React, and I have a strong track record of delivering exceptional results across a range of industries including finance, healthcare, cryptocurrency, video conferencing, game design, and IoT. Throughout my career, I have established myself as a top-rated freelance talent, consistently producing outstanding work. I've had the privilege of collaborating with prominent market-leading companies, which has further enriched my expertise and insights. My experience and skills make me a valuable asset to any team, and I'm dedicated to delivering top-notch product development.
+> With seven years of experience as a Senior Software Engineer, I have specialized in developing extensive e-commerce web and mobile applications. I have a strong proficiency in TypeScript and React and have consistently delivered exceptional results in various industries such as finance, healthcare, cryptocurrency, video conferencing, game design, and IoT. Throughout my career, I have established myself as a highly-rated freelance professional, consistently producing outstanding work. I have had the opportunity to collaborate with leading companies in the market, which has further enriched my expertise and insights. My experience and skills make me a valuable asset to any team, and I am dedicated to delivering high-quality product development.
 
 
 ## 🌐 Social Media:
