@@ -1,12 +1,7 @@
 ## Hey there! I'm Daniel.
 
-> As a Senior Front-End Developer, I bring over 7 years of specialized expertise in crafting expansive CMS
-(Content Management System) platforms. My skill set revolves around TypeScript and React, and I possess a
-proven track record of delivering exceptional results within various sectors, including shipping ,finance,
-healthcare, video conferencing, and IoT. I've had the privilege of collaborating with renowned industry-
-leading organizations, further enriching my knowledge and insights. With my extensive experience and
-proficiency, I am a valuable asset to any team, committed to delivering top-tier product development for
-CMS platforms.
+> With a wealth of 7 years of experience as a Senior Software Engineer, I specialize in the development of expansive e-commerce web and mobile applications. My proficiency spans TypeScript and React, and I have a strong track record of delivering exceptional results across a range of industries including finance, healthcare, cryptocurrency, video conferencing, game design, and IoT. Throughout my career, I have established myself as a top-rated freelance talent, consistently producing outstanding work. I've had the privilege of collaborating with prominent market-leading companies, which has further enriched my expertise and insights. My experience and skills make me a valuable asset to any team, and I'm dedicated to delivering top-notch product development.
+
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dansalahi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dan.salahi) 
