@@ -1,6 +1,8 @@
 ## Hey there! I'm Daniel.
 
-> With seven years of experience as a Senior Software Engineer, I have specialized in developing extensive e-commerce web and mobile applications. I have a strong proficiency in TypeScript and React and have consistently delivered exceptional results in various industries such as finance, healthcare, cryptocurrency, video conferencing, game design, and IoT. Throughout my career, I have established myself as a highly-rated freelance professional, consistently producing outstanding work. I have had the opportunity to collaborate with leading companies in the market, which has further enriched my expertise and insights. My experience and skills make me a valuable asset to any team, and I am dedicated to delivering high-quality product development.
+> With seven years of experience as a Senior Full-Stack Engineer, I have developed expertise in building robust web and mobile applications, including mobile development with React Native. I have worked across diverse industries such as finance, healthcare, cryptocurrency, video conferencing, game design, and IoT, delivering impactful solutions that drive business success. My technical proficiency spans TypeScript, React, and other modern technologies, enabling me to create scalable and high-performance products.
+
+I have consistently been recognized as a highly-rated freelance professional, collaborating with top-tier companies to deliver innovative and high-quality software. My experience and skillset allow me to seamlessly navigate the full development lifecycle, and I am dedicated to contributing exceptional value to any team or project I engage with.
 
 
 ## 🌐 Social Media:
