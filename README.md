@@ -1,6 +1,6 @@
 ## Hey there! I'm Daniel.
 
-<p>With seven years of experience as a Senior Full-Stack Engineer, I have developed expertise in building robust web and mobile applications, including mobile development with React Native. I have worked across diverse industries such as finance, healthcare, cryptocurrency, video conferencing, game design, and IoT, delivering impactful solutions that drive business success. My technical proficiency spans TypeScript, React, and other modern technologies, enabling me to create scalable and high-performance products. </p>
+<p>With seven years of experience as a Full-Stack Engineer, I have developed expertise in building robust web and mobile applications, including mobile development with React Native. I have worked across diverse industries such as finance, healthcare, cryptocurrency, video conferencing, game design, and IoT, delivering impactful solutions that drive business success. My technical proficiency spans TypeScript, React, and other modern technologies, enabling me to create scalable and high-performance products. </p>
 
 <p>I have consistently been recognized as a highly-rated freelance professional, collaborating with top-tier companies to deliver innovative and high-quality software. My experience and skillset allow me to seamlessly navigate the full development lifecycle, and I am dedicated to contributing exceptional value to any team or project I engage with.</p>
 
