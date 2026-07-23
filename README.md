@@ -1,4 +1,4 @@
-##🚀 I build SaaS products where AI features feel native
+🚀 I build SaaS products where AI features feel native
 
 <p>I'm a Senior Full-Stack SaaS Engineer with 10+ years shipping production web and mobile software end-to-end: architecture, API design, performance, and the production debugging that happens after the launch post.
  </p>
